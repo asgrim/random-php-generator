@@ -1,0 +1,15 @@
+{
+    "name": "asgrim/random-php-generator",
+    "type": "project",
+    "require": {
+        "nikic/php-parser": "^3.0",
+        "fzaninotto/faker": "^1.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Titcumb",
+            "email": "james@asgrim.com"
+        }
+    ]
+}
